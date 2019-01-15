@@ -8,7 +8,9 @@ export default StyleSheet.create({
         alignItems: 'center',
         justifyContent: 'center',
         paddingHorizontal: 20,
-        paddingVertical: 30
+        paddingVertical: 0,
+        top:-10,
+        marginTop:-20
     },
     sliderPaginationDotContainer: {
         alignItems: 'center',
